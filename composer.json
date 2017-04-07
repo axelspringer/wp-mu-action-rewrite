@@ -1,0 +1,20 @@
+{
+    "name": "muplugin/asse-action-rewrite",
+    "type": "wordpress-muplugin",
+    "description": "asse action rewrite",
+    "keywords": [
+        "wordpress",
+        "muplugin"
+    ],
+    "authors": [
+        {
+            "name": "Developer",
+            "homepage": "http://www.axelspringer.de"
+        }
+    ],
+    "homepage": "https://as-stash.axelspringer.de/projects/WPMUP/repos/asse-action-rewrite/browse",
+    "license": "proprietary",
+    "extra": {
+        "installer-name": "asse-action-rewrite"
+    }
+}
