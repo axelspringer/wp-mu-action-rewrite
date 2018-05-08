@@ -1,5 +1,5 @@
 {
-    "name": "muplugin/wp-mu-action-rewrite",
+    "name": "axelspringer/wp-mu-action-rewrite",
     "type": "wordpress-muplugin",
     "description": "axelspringer action rewrite",
     "keywords": [
